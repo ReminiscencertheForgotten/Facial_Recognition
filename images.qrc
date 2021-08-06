@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/radio_button.png</file>
+    <file>images/milky.jpg</file>
+    <file>images/heavy_minus_sign.png</file>
+    <file>images/x.png</file>
+    <file>images/city_sunset.png</file>
+    <file>images/closed_book.png</file>
+    <file>images/crystal_ball.png</file>
+    <file>images/ear_of_rice.png</file>
+    <file>images/exclamation.png</file>
+    <file>images/file_folder.png</file>
+    <file>images/fire.png</file>
+  </qresource>
+</RCC>
